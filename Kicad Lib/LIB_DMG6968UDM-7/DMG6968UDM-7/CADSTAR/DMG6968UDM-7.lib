@@ -1,0 +1,20 @@
+.DMG6968UDM-7 :1 ;Diodes Inc DMG6968UDM-7 Dual N-channel MOSFET Transistor, 6.5 A, 20 V, 6-Pin SOT-26
+SOT95P285X140-6N
+*STM Q
+*NGS
+*PLB 1="S1" 2="D1/D2_1" 3="S2" 4="G2" 5="D1/D2_2" 6="G1"
+*MXP 6
+*DFN DMG6968UDM-7
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (DMG6968UDM-7)
+~!Mouser Part Number (621-DMG6968UDM-7)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=621-DMG6968UDM-7)
+~!RS Part Number (7514115P)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/7514115P)
+~!Allied_Number (70438046)
+~!Link Allied Price/Stock (https://www.alliedelec.com/diodesinc-dmg6968udm-7/70438046/)
+~!Link Datasheet (https://www.diodes.com/assets/Datasheets/ds31758.pdf)
+~!Height (1.4mm)
+~!3D_Model (DMG6968UDM-7)
+DMG6968UDM-7
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

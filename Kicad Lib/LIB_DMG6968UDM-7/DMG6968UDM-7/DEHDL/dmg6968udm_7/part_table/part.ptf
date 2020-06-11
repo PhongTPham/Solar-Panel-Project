@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DMG6968UDM_7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "ALLIED_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Inc.", "DMG6968UDM-7" (!) = "", "SOT95P285X140-6N", "SOT23 (6-Pin)", "621-DMG6968UDM-7", "https://www.mouser.com/Search/Refine.aspx?Keyword=621-DMG6968UDM-7", "7514115P", "http://uk.rs-online.com/web/p/products/7514115P", "70438046", "https://www.alliedelec.com/diodesinc-dmg6968udm-7/70438046/", "Diodes Inc DMG6968UDM-7 Dual N-channel MOSFET Transistor, 6.5 A, 20 V, 6-Pin SOT-26", "https://www.diodes.com/assets/Datasheets/ds31758.pdf", "1.4 mm"
+END_PART
+
+END.
